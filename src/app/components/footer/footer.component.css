@@ -1,0 +1,11 @@
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #c54d2f;
+    z-index: 1000;
+}
+.heart{
+  color: black;
+}
